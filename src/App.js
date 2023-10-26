@@ -21,7 +21,7 @@ const [color,setColor] = useState("white")
   }
 
   return (
-    
+
     <div className='main-bg d-flex align-items-center justify-content-center' style={{backgroundColor:color}}>
    
 
@@ -34,7 +34,7 @@ const [color,setColor] = useState("white")
 
       </div>
 
-
+<p className='text-center fixed-bottom text-secondary'>sanin©</p>
     </div>
   );
 }
